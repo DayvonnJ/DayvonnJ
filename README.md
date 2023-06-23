@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dayvonn Jones</h1>
-<h3 align="center">A motivated Informatics Professional from NYC</h3>
+<h3 align="center">Data Analyst | Data Scientist from NYC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dayvonnj&label=Profile%20views&color=0e75b6&style=flat" alt="dayvonnj" /> </p>
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://public.tableau.com/app/profile/dayvonn.jones" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/salesforce/salesforce-original.svg" alt="dayvonn" height="30" width="40" /></a>
 <a href="https://twitter.com/dayvonnj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dayvonn" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dayvonnjones/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dayvonn jones" height="30" width="40" /></a>
 <a href="https://www.facebook.com/DayvonnJones/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dayvonn jones" height="30" width="40" /></a>
